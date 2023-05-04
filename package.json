@@ -5,7 +5,7 @@
   "author": "Daniel Duclos-Cavalcanti <me@duclos.dev>",
   "main": "index.js",
   "scripts": {
-    "start": "node src/index.js"
+    "start": "node server/index.js"
   },
   "dependencies": {
     "express": "^4.16.1"

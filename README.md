@@ -1,11 +1,17 @@
 <h1 align="center">Note-WebApp</h1>
 <p align="center">
-  simple note-taking web app with NodeJS
+  simple note-taking web app
 </p>
 
 ## Dependencies
 1. [npm](https://docs.npmjs.com/)
 2. [nodejs](https://nodejs.dev/en/learn/)
+3. [react](https://nodejs.dev/en/learn/)
+
+### Windows 
+```sh 
+TODO
+```
 
 ### Ubuntu 
 ```sh 

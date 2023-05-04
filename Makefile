@@ -6,9 +6,12 @@ PWD := $(shell pwd)
 all: run
 
 install: 
-	npm install
+	@npm install
+
+test:
+	@npm test
 
 run:
-	@node src/index.js
+	@npm start
 
 
