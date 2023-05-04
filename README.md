@@ -18,6 +18,11 @@ TODO
 sudo apt install npm nodejs
 ```
 
+Only needed for setup:
+``` sh
+npx create-react-app client
+```
+
 ## Installation
 ```sh
   make install
