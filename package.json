@@ -1,0 +1,13 @@
+{
+  "name": "node-web-app",
+  "version": "1.0.0",
+  "description": "Node.js on Docker",
+  "author": "Daniel Duclos-Cavalcanti <me@duclos.dev>",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "dependencies": {
+    "express": "^4.16.1"
+  }
+}
