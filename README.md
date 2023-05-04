@@ -6,7 +6,7 @@
 ## Dependencies
 1. [npm](https://docs.npmjs.com/)
 2. [nodejs](https://nodejs.dev/en/learn/)
-3. [react](https://nodejs.dev/en/learn/)
+3. [react](https://react.dev/)
 
 ### Windows 
 ```sh 
