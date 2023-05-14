@@ -1,0 +1,60 @@
+* {
+  text-align: center;
+  margin: 0;
+  padding: 0;
+}
+
+h1 {
+    color: white;
+}
+
+body {
+    background-color: #262626;
+}
+
+/* .add-button { } */
+
+.addButton {
+    display: inline-block;
+    list-style: none;
+
+    height: 40px;
+    line-height: 20px;
+
+    margin: 0;
+    padding: 10px 16px;
+    position: relative;
+    background-color: #91C777;
+    color: #FFFFFF;
+
+    font-size: 14px;
+    font-weight: 500;
+    text-decoration: none;
+    text-align: center;
+
+    border-radius: 8px;
+    border-style: none;
+    box-sizing: border-box;
+    outline: none;
+
+    cursor: pointer;
+}
+
+.addButton:hover {
+    background-color: #FFFFFF;
+    color: #91C777;
+}
+
+.numberNotes {
+    color: #FFFFFF;
+    font-size: 200%;
+}
+
+.note {
+    width: 80%;
+    max-width: 800px;
+    background-color: white;
+    padding: 30px 50px;
+    margin: 10px auto;
+}
+
